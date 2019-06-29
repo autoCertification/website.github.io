@@ -36,6 +36,10 @@ html {
   color: #d5752d;
   text-transform: uppercase;
 }
+.fa-viber {
+  font-size: 24px;
+  margin: 6px;
+}
 
 .header {
   padding-top: 10px;
@@ -143,6 +147,10 @@ html {
 }
 .footer__info {
   padding-left: 8px;
+}
+.footer__address {
+  text-align: center;
+  padding-top: 10px;
 }
 
 @media screen and (min-width : 320px) and (max-width : 480px) {
