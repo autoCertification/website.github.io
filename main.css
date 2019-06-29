@@ -162,3 +162,9 @@ html {
     background-size: contain;
   }
 }
+
+@media screen and (device-aspect-ratio: 40/71) {
+  body {
+    font-size: 16px;
+  }
+}
